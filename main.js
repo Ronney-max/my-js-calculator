@@ -46,9 +46,9 @@ function showHistory() {
 }
 
 // Example Usage
-  console.log(add(10, 4));
-  console.log(subtract(15, 5));
-  console.log(multiply(8,8));
-  console.log(divide(10,2));
+  console.log(add(10, 4))
+  console.log(subtract(15, 5))
+  console.log(multiply(8,8))
+  console.log(divide(10,2))
 
   showHistory ()
