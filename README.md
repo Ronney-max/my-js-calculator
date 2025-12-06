@@ -1,15 +1,15 @@
 ## Description
 
-- This is a simple persinal portfolio website created with using HTML and CSS.
-- It introduces who I am while highlighting my skills as well asprojects I have been able to take part in.
-- one of the projects is acreating a Simple Calculator which I built using JavaScript.
+- This is a simple personal portfolio website created using HTML and CSS.
+- It introduces who I am while highlighting my skills as well as projects I have been able to take part in.
+- One of the projects is creating a Simple Calculator, which I built using JavaScript.
 - The website also showcases my passion for coffee and my journey to becoming a Software Engineer.
 
 # Author 
 
-Name : Ronney Omondi
-Interests : Coffee Enthusiast | Aspiring software engineer
-Languages : English and Arabic
+- Name : Ronney Omondi
+- Interests : Coffee Enthusiast | Aspiring software engineer
+- Languages : English and Arabic
 
 ## Content
 
